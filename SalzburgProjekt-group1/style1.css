@@ -1,0 +1,32 @@
+body {
+    background-color:white ;
+}
+h1 {
+    font-family:'Times New Roman', Times, serif;
+    text-decoration: none;
+    font-size: 43px;
+    text-align: left;
+}
+a {
+  
+    text-decoration: none;
+    color: black;
+}
+.left {
+    width: 40%;
+    height: auto;
+    float: left;
+    margin-left: 3%;
+
+}
+.right {
+    width: 50%;
+    height: auto;
+    float: right;
+    margin-right: 3%;
+
+}
+.monuments{
+   color: red;
+    margin-left: 3%;
+}
