@@ -1,0 +1,31 @@
+/* Just for fun */
+body {
+    background-color: #223440;
+    color: #ffdb58;
+
+}
+
+#all {
+    width: 70%;
+    height: 90%;
+    margin-left: 15%;
+}
+
+.sx {
+    float: left;
+    width: 45%;
+    height: 70px;
+    background-color: #616161;
+}
+
+.dx {
+    float: right;
+    width: 45%;
+    height: 70px;
+    background-color: #616161;
+}
+
+.cx {
+    text-align: center;
+    clear: both;
+}
