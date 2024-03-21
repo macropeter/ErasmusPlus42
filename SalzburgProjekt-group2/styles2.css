@@ -1,7 +1,7 @@
 /* Just for fun */
 body {
-    background-color: #223440;
-    color: #ffdb58;
+    background-color: #ffffff;
+    color: black;
 
 }
 
@@ -11,24 +11,34 @@ body {
     margin-left: 15%;
 }
 
+
+div{
+    text-align: center;
+}
+
 .sx {
     float: left;
     width: 45%;
-    height: 70px;
+    height: 90px;
     background-color: #616161;
+    border-radius: 10px;
 }
 
 .dx {
     float: right;
     width: 45%;
-    height: 70px;
+    height: 90px;
     background-color: #616161;
+    border-radius: 10px;
 }
 
 .cx {
+    margin-top: 200px;
+    margin-bottom: 50px;
     text-align: center;
     clear: both;
 }
+
 h1.titles{
 
     text-align: center;
@@ -37,4 +47,12 @@ h1.titles{
     font-size: 60px;
     margin-top: 5%;
     
+}
+
+
+
+p {
+    color: white;
+    max-width: 90%;
+    margin-left: 5%;
 }
