@@ -39,18 +39,10 @@ p {
   margin: 0;
   padding: 0;
  }
-h1.titles{
 
-      text-align: center;
-      font-family:Helvetica;
-      font-size: 60px;
-      margin-top: 5%;
-      
-  }
-
-img {
-    width: 30%;
-    height: 80%;
+h1>img {
+    width: 50%;
+    height: 50%;
     margin-left: 33%;
     margin-right: 33%;
 }
